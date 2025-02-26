@@ -1,82 +1,91 @@
-<!-- Animated Marquee Header -->
-<marquee behavior="scroll" direction="left" scrollamount="6" style="font-size:2.5rem; color:#4caf50; font-weight:bold; margin-bottom:1rem;">
-  Welcome to Aymen's Creative GitHub Profile!
-</marquee>
-
-<!-- Animated SVG Banner -->
+<!-- En-tête animé avec SVG et animation de gradient -->
 <div align="center">
-  <svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
-    <rect x="0" y="0" width="300" height="100" fill="#222222" rx="10"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#ffffff">
-      Hi, I'm Aymen!
-      <animate attributeName="fill" values="#ffffff;#4caf50;#ffffff" dur="3s" repeatCount="indefinite" />
+  <svg width="100%" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradientText" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff8a00">
+          <animate attributeName="stop-color" values="#ff8a00;#e52e71;#ff8a00" dur="5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#e52e71">
+          <animate attributeName="stop-color" values="#e52e71;#ff8a00;#e52e71" dur="5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:48px; font-weight:bold;"
+          fill="url(#gradientText)">
+      Bienvenue sur mon profil !
     </text>
+  </svg>
+</div>
+
+<!-- Animation SVG d'un blob qui change de forme -->
+<div align="center">
+  <svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#4caf50">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="
+          M150 0 C75 0 0 75 0 150 C0 225 75 300 150 300 C225 300 300 225 300 150 C300 75 225 0 150 0;
+          M150 0 C225 0 300 75 300 150 C300 225 225 300 150 300 C75 300 0 225 0 150 C0 75 75 0 150 0;
+          M150 0 C75 0 0 75 0 150 C0 225 75 300 150 300 C225 300 300 225 300 150 C300 75 225 0 150 0
+        "
+      />
+    </path>
   </svg>
 </div>
 
 ---
 
-## About Me
+# Salut, je suis Aymen (kmaili) 👋
 
-I'm a **passionate Data Engineering student** based in **Sfax, Tunisia**. Currently in my third year, I enjoy exploring innovative data-driven solutions and building scalable systems that make a difference.
+### Étudiant en Data Engineering | Sfax, Tunisie
 
-- 🔭 **Projects:** Time Series Forecasting, Mobile App Development, Full-Stack Web Applications, and more.
-- 🌱 **Learning:** Always up for expanding my skills in data science, machine learning, and software engineering.
-- 💬 **Collaboration:** Open to new ideas and collaborations. Let’s connect!
-
----
-
-## Featured Projects
-
-Below are some projects that highlight my skills and interests:
-
-### Retail Sales Time Series Forecasting
-- **Description:** Forecasting retail sales trends using statistical and machine learning models.
-- **Technologies:** Python, SQL, Time Series Analysis, ML Libraries.
-
-### EasyShare
-- **Description:** A user-friendly file-sharing app designed for seamless collaboration.
-- **Technologies:** Full-stack web development, REST APIs, UI/UX design.
-
-### Flutter Chat App
-- **Description:** A cross-platform mobile chat application developed with Flutter.
-- **Technologies:** Flutter, Dart, Firebase.
-
-### ProjetJEE, Backend-Quizzini & Frontend-Quizzini
-- **Description:** A suite of full-stack quiz applications that showcase my skills in Java and web development.
-- **Technologies:** Java, Spring Boot, Angular/React.
+Je suis passionné par la création de solutions data-driven innovantes et la construction de systèmes scalables qui résolvent des problèmes réels.  
+  
+**Compétences & Intérêts :**  
+- **Data Science & Machine Learning**  
+- **Développement Mobile & Web Full-Stack**  
+- **Analyse de Données & Modélisation**
 
 ---
 
-## Skills & Technologies
+## Projets en Vedette
 
-| **Languages**           | **Frameworks & Tools**          | **Data & Engineering**              |
-|-------------------------|---------------------------------|-------------------------------------|
-| Java, Python, SQL       | Flutter, Spring Boot, Angular, React | Time Series Analysis, ML, Data Modeling |
-| JavaScript, Dart, TypeScript | Git, GitHub, CI/CD Pipelines    | Data Analytics, Statistical Modeling   |
+### Retail Sales Time Series Forecasting  
+*Prévision des tendances de ventes via l'analyse de séries temporelles et des modèles de machine learning.*
+
+### EasyShare  
+*Application conviviale de partage de fichiers pour une collaboration simplifiée.*
+
+### Flutter Chat App  
+*Application de messagerie mobile cross-platform développée avec Flutter.*
+
+### ProjetJEE, Backend-Quizzini & Frontend-Quizzini  
+*Suite d'applications de quiz démontrant mes compétences en Java et en développement web.*
 
 ---
 
-## Animated Showcase
+## Technologies
+
+| **Langages**               | **Frameworks & Outils**                | **Ingénierie des Données**                |
+|----------------------------|----------------------------------------|-------------------------------------------|
+| Java, Python, SQL          | Flutter, Spring Boot, Angular, React   | Analyse de Séries Temporelles, Machine Learning, Data Modeling |
+| JavaScript, Dart, TypeScript | Git, GitHub, CI/CD Pipelines          | Analyse de Données, Modélisation Statistique |
+
+---
+
+## Connectez-Vous
 
 <div align="center">
-  <!-- Animated GIF (replace URL with your own if desired) -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Creative Animation" width="300" style="border-radius:10px; margin:1rem 0;">
+  <a href="mailto:votre.email@example.com"><img src="https://img.shields.io/badge/Email-votre.email@example.com-blue?style=for-the-badge" alt="Email"></a>
+  <a href="https://linkedin.com/in/votreprofil"><img src="https://img.shields.io/badge/LinkedIn-Votre%20Profil-blue?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://votreportfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-Visitez-blue?style=for-the-badge" alt="Portfolio"></a>
 </div>
 
 ---
 
-## Connect With Me
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Animation cool" width="300" style="border-radius:10px; margin-top:1rem;">
+</div>
 
-Feel free to reach out—I’m always eager to collaborate or chat about tech!
-
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [Your Portfolio Site](https://yourportfolio.example.com)
-
----
-
-> *"Strive not to be a success, but rather to be of value."*  
-> – Albert Einstein
-
-Thanks for stopping by my profile. Let’s build something amazing together! 🚀
+*Merci d'avoir visité mon profil. Ensemble, créons quelque chose d'extraordinaire ! 🚀*
