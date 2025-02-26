@@ -200,41 +200,7 @@ aymen.summonExperience();
 </div>
 
 <!-- CUSTOM CSS - GitHub won't render this, but it's for effect -->
-<style>
-  body {
-    background-color: #0D1117;
-    color: #c9d1d9;
-    font-family: 'Courier New', monospace;
-    text-shadow: 0 0 5px #FF0000;
-  }
-  
-  h1, h2, h3 {
-    color: #800000;
-    text-shadow: 0 0 10px #800000;
-    animation: glow 1s ease-in-out infinite alternate;
-  }
-  
-  @keyframes glow {
-    from {
-      text-shadow: 0 0 10px #800000;
-    }
-    to {
-      text-shadow: 0 0 20px #FF0000;
-    }
-  }
-  
-  img {
-    filter: drop-shadow(0 0 5px #800000);
-  }
-  
-  .stats-card {
-    transition: transform 0.3s ease;
-  }
-  
-  .stats-card:hover {
-    transform: scale(1.05);
-  }
-</style>
+
 
 <!-- HIDDEN SPACE FOR THE UNDEAD -->
 <!--
