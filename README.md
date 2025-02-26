@@ -1,91 +1,16 @@
-<!-- En-tête animé avec SVG et animation de gradient -->
-<div align="center">
-  <svg width="100%" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradientText" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff8a00">
-          <animate attributeName="stop-color" values="#ff8a00;#e52e71;#ff8a00" dur="5s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#e52e71">
-          <animate attributeName="stop-color" values="#e52e71;#ff8a00;#e52e71" dur="5s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:48px; font-weight:bold;"
-          fill="url(#gradientText)">
-      Bienvenue sur mon profil !
-    </text>
-  </svg>
-</div>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!-- Animation SVG d'un blob qui change de forme -->
-<div align="center">
-  <svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#4caf50">
-      <animate attributeName="d" dur="10s" repeatCount="indefinite"
-        values="
-          M150 0 C75 0 0 75 0 150 C0 225 75 300 150 300 C225 300 300 225 300 150 C300 75 225 0 150 0;
-          M150 0 C225 0 300 75 300 150 C300 225 225 300 150 300 C75 300 0 225 0 150 C0 75 75 0 150 0;
-          M150 0 C75 0 0 75 0 150 C0 225 75 300 150 300 C225 300 300 225 300 150 C300 75 225 0 150 0
-        "
-      />
-    </path>
-  </svg>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmaili&label=Profile%20views&color=0e75b6&style=flat" alt="kmaili" /> </p>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aymen-kmaili-75851a1bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymen-kmaili-75851a1bb" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/aymen.kmaili.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aymen.kmaili.1" height="30" width="40" /></a>
+</p>
 
-# Salut, je suis Aymen (kmaili) 👋
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Étudiant en Data Engineering | Sfax, Tunisie
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmaili&show_icons=true&locale=en&layout=compact" alt="kmaili" /></p>
 
-Je suis passionné par la création de solutions data-driven innovantes et la construction de systèmes scalables qui résolvent des problèmes réels.  
-  
-**Compétences & Intérêts :**  
-- **Data Science & Machine Learning**  
-- **Développement Mobile & Web Full-Stack**  
-- **Analyse de Données & Modélisation**
-
----
-
-## Projets en Vedette
-
-### Retail Sales Time Series Forecasting  
-*Prévision des tendances de ventes via l'analyse de séries temporelles et des modèles de machine learning.*
-
-### EasyShare  
-*Application conviviale de partage de fichiers pour une collaboration simplifiée.*
-
-### Flutter Chat App  
-*Application de messagerie mobile cross-platform développée avec Flutter.*
-
-### ProjetJEE, Backend-Quizzini & Frontend-Quizzini  
-*Suite d'applications de quiz démontrant mes compétences en Java et en développement web.*
-
----
-
-## Technologies
-
-| **Langages**               | **Frameworks & Outils**                | **Ingénierie des Données**                |
-|----------------------------|----------------------------------------|-------------------------------------------|
-| Java, Python, SQL          | Flutter, Spring Boot, Angular, React   | Analyse de Séries Temporelles, Machine Learning, Data Modeling |
-| JavaScript, Dart, TypeScript | Git, GitHub, CI/CD Pipelines          | Analyse de Données, Modélisation Statistique |
-
----
-
-## Connectez-Vous
-
-<div align="center">
-  <a href="mailto:votre.email@example.com"><img src="https://img.shields.io/badge/Email-votre.email@example.com-blue?style=for-the-badge" alt="Email"></a>
-  <a href="https://linkedin.com/in/votreprofil"><img src="https://img.shields.io/badge/LinkedIn-Votre%20Profil-blue?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://votreportfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-Visitez-blue?style=for-the-badge" alt="Portfolio"></a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Animation cool" width="300" style="border-radius:10px; margin-top:1rem;">
-</div>
-
-*Merci d'avoir visité mon profil. Ensemble, créons quelque chose d'extraordinaire ! 🚀*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmaili&show_icons=true&locale=en" alt="kmaili" /></p>
