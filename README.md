@@ -45,7 +45,7 @@
 <!-- INTERACTIVE CODE PREVIEW -->
 ## 💻 **Live Incantations**
 
-```tsx
+
 import { createPortal } from 'react-dom';
 import { useDarkMagic } from '@arcane/hooks';
 
@@ -78,9 +78,10 @@ const DigitalPortal = () => {
     />,
     document.querySelector('#portal')
   );
-};```
+};
+
 🌌 Cosmic Activity
-```{
+{
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {"url": "https://ghchart.rshah.org/kmaili"},
   "mark": "area",
@@ -99,7 +100,7 @@ const DigitalPortal = () => {
     "view": {"stroke": "transparent"},
     "background": "transparent"
   }
-}```
+};
 🌐 Eldritch Connections
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
 LinkedIn
