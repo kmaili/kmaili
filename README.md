@@ -83,4 +83,30 @@ const QuantumInterface: React.FC = () => {
 };
 ```
 
-<!-- 𝗔𝗡𝗜𝗠𝗔𝗧𝗘𝗗 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 𝗚𝗥𝗔𝗣𝗛 --><h2 align="center" style="color: #00F7FF; text-shadow: 0 0 15px #00F7FF">📈 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h2>
+<!-- 𝟯𝗗 𝗦𝗞𝗶𝗹𝗹𝘀 𝗖𝗨𝗕𝗘𝗦 --><h2 align="center" style="color: #00F7FF; text-shadow: 0 0 15px #00F7FF">🔮 𝗧𝗲𝗰𝗵 𝗖𝘂𝗯𝗲𝘀</h2><div align="center"> <img src="https://skillicons.dev/icons?i=react,ts,nodejs,py,aws,docker,graphql,threejs&theme=dark&perline=4" /> </div><!-- 𝗦𝗢𝗖𝗜𝗔𝗟 𝗟𝗜𝗡𝗞𝗦 --><h2 align="center" style="color: #00F7FF; text-shadow: 0 0 15px #00F7FF">🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲</h2><div align="center" style="display: flex; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
+LinkedIn
+Portfolio
+Email
+Twitter
+
+</div><!-- 𝗗𝗬𝗡𝗔𝗠𝗜𝗖 𝗩𝗜𝗦𝗜𝗧𝗢𝗥 𝗖𝗢𝗨𝗡𝗧𝗘𝗥 --><div align="center" style="margin: 2rem 0;"> <img src="https://profile-counter.glitch.me/kmaili/count.svg" alt="Visitor Counter" style="filter: drop-shadow(0 0 10px #00F7FF);"> </div><!-- 𝗙𝗟𝗢𝗔𝗧𝗜𝗡𝗚 𝗙𝗢𝗢𝗧𝗘𝗥 --><img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-footer.svg" style="filter: hue-rotate(180deg);"><!-- 𝗔𝗡𝗜𝗠𝗔𝗧𝗜𝗢𝗡 𝗦𝗧𝗬𝗟𝗘𝗦 --><style> @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-20px); } 100% { transform: translateY(0px); } } .skill-icon:hover { transform: scale(1.2); filter: drop-shadow(0 0 10px #00F7FF); transition: all 0.3s ease; } </style>
+
+**Key Features:**  
+🌀 **Full Cyberpunk Aesthetic** with glowing cyan accents  
+🚀 **Interactive Elements** with hover animations  
+🌌 **Animated 3D Skill Cubes**  
+📊 **Custom Data Visualizations**  
+💫 **Floating Avatar Effect**  
+📈 **Professional Stats Layout**  
+🔮 **Neon Glassmorphism Design**  
+🖥️ **Dynamic Code Examples**  
+🌐 **Modern Social Links**  
+
+**To Activate:**  
+1. Replace social media links with your own  
+2. Add custom project code examples  
+3. Update stats widgets with your username  
+4. Host any GIFs/images used  
+5. Enable GitHub dark mode for best effect  
+
+This design combines professional presentation with cutting-edge aesthetics while maintaining perfect readability and GitHub compatibility.
