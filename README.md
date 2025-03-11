@@ -1,110 +1,86 @@
-<!-- 3D ANIMATED HEADER -->
+<!-- 𝗪𝗔𝗩𝗘 𝗗𝗘𝗦𝗜𝗚𝗡 𝗛𝗘𝗔𝗗𝗘𝗥 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=4000&pause=1000&color=FF355A&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Frontend+Architect;%F0%9F%92%BB+Digital+Experience+Artisan;%F0%9F%94%A5+UI%2FUX+Alchemist" alt="Animated Header" />
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
-<!-- FLOATING AVATAR -->
+<!-- 𝗔𝗡𝗜𝗠𝗔𝗧𝗘𝗗 𝗧𝗬𝗣𝗜𝗡𝗚 𝗧𝗘𝗫𝗧 -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=𝗛𝗲𝗹𝗹𝗼%2C+𝗜'𝗺+𝗔𝘆𝗺𝗲𝗻+𝗞𝗺𝗮𝗶𝗹𝗶;𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿;𝗨𝗜%2F𝗨𝗫+𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁;𝟱+𝗬𝗲𝗮𝗿𝘀+𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲;𝗔𝗜+%𝟮𝟲+𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁" alt="Typing SVG" />
+  </a>
+</h1>
+
+<!-- 𝗙𝗟𝗢𝗔𝗧𝗜𝗡𝗚 𝗔𝗩𝗔𝗧𝗔𝗥 -->
 <div align="center">
-  <img src="https://i.postimg.cc/8CwqYvH4/avatar.gif" width="220px" style="border-radius: 50%; box-shadow: 0 0 25px #FF355A;">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="220px" style="border-radius:50%;box-shadow:0 0 25px #00F7FF;animation: float 6s ease-in-out infinite">
 </div>
 
-<!-- NEON STATS GRID -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+<!-- 𝗦𝗧𝗔𝗧𝗦 𝗚𝗥𝗜𝗗 -->
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 2rem 0;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kmaili&theme=radical&border_radius=12&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kmaili&theme=blue-green&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=00F7FF&fire=00F7FF&ring=00F7FF&currStreakLabel=00F7FF)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmaili&layout=compact&theme=radical&bg_color=0D1117&title_color=FF355A&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmaili&show_icons=true&theme=blue-green&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=kmaili&theme=radical&margin-w=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<!-- GLASS MORPHISM SKILLS SECTION -->
-## 🔮 **Technical Grimoire**
-
-<div align="center" style="background: rgba(255, 53, 90, 0.1); backdrop-filter: blur(10px); padding: 2rem; border-radius: 15px; margin: 2rem 0; border: 1px solid rgba(255,53,90,0.3);">
-
-### **Core Arcana**
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1A1A1A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A1A1A)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1A1A)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### **Shadow Arts**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1A1A)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1A1A1A)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1A1A1A)
-
-### **Forbidden Knowledge**
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/-WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=kmaili&theme=darkhub&margin-w=15&no-frame=true&title=MultiLanguage,Commits,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<!-- INTERACTIVE CODE PREVIEW -->
-## 💻 **Live Incantations**
+<!-- 𝗡𝗘𝗢𝗡 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 -->
+<h2 align="center" style="color: #00F7FF; text-shadow: 0 0 15px #00F7FF">🌟 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝘁𝗮𝗰𝗸</h2>
 
+<div align="center" style="background: rgba(0, 247, 255, 0.1); padding: 2rem; border-radius: 15px; backdrop-filter: blur(5px); border: 1px solid #00F7FF; margin: 2rem 0;">
 
+### 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗠𝗮𝘀𝘁𝗲𝗿𝘆
+![React](https://img.shields.io/badge/-React-00F7FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/-TypeScript-00F7FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![Three.js](https://img.shields.io/badge/-Three.js-00F7FF?style=for-the-badge&logo=three.js&logoColor=white&labelColor=0D1117)
+
+### 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗪𝗶𝘇𝗮𝗿𝗱𝗿𝘆
+![Node.js](https://img.shields.io/badge/-Node.js-00F7FF?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
+![Python](https://img.shields.io/badge/-Python-00F7FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![GraphQL](https://img.shields.io/badge/-GraphQL-00F7FF?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117)
+
+### 𝗗𝗲𝘃𝗢𝗽𝘀 𝗘𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲
+![Docker](https://img.shields.io/badge/-Docker-00F7FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+![AWS](https://img.shields.io/badge/-AWS-00F7FF?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-00F7FF?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117)
+
+</div>
+
+<!-- 𝗔𝗡𝗜𝗠𝗔𝗧𝗘𝗗 𝗖𝗢𝗗𝗘 𝗦𝗡𝗜𝗣𝗣𝗘𝗧 -->
+<h2 align="center" style="color: #00F7FF; text-shadow: 0 0 15px #00F7FF">💻 𝗟𝗮𝘁𝗲𝘀𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁</h2>
+
+```typescript
 import { createPortal } from 'react-dom';
-import { useDarkMagic } from '@arcane/hooks';
+import { useCyberMagic } from '@arcane/hooks';
 
-const DigitalPortal = () => {
-  const { summonDaemon, bindSpirit } = useDarkMagic();
-  const [dimension, setDimension] = useState<Realm>('Shadowlands');
-
+const QuantumInterface: React.FC = () => {
+  const [dimension, setDimension] = useState<Realm>('Cyberspace');
+  const { initNeuralLink, quantumRender } = useCyberMagic();
+  
   useEffect(() => {
-    const elderSign = summonDaemon({
-      element: document.getElementById('portal'),
-      sacrifice: 3,
-      constraints: {
-        realityBending: true,
-        antiPatterns: ['cleanCode']
-      }
+    const neuralInterface = initNeuralLink({
+      encryption: 'quantum-level',
+      renderMode: 'holographic'
     });
-
-    return () => bindSpirit(elderSign);
+    
+    return () => neuralInterface.disconnect();
   }, []);
 
   return createPortal(
-    <EtherealCanvas 
-      realm={dimension}
-      onRender={(glitchMatrix) => (
-        <ChaosComponent 
-          entropyLevel={0.93}
-          renderMode="oblivion"
+    <HolographicCanvas 
+      resolution={4096}
+      onRender={(quantumMatrix) => (
+        <AIComponent 
+          neuralPattern={quantumMatrix}
+          onDimensionShift={setDimension}
         />
       )}
     />,
-    document.querySelector('#portal')
+    document.getElementById('root')
   );
 };
+```
 
-🌌 Cosmic Activity
-{
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "https://ghchart.rshah.org/kmaili"},
-  "mark": "area",
-  "encoding": {
-    "x": {"field": "date", "type": "temporal", "title": "Timeline"},
-    "y": {"field": "count", "type": "quantitative", "title": "Code Storms"},
-    "color": {
-      "field": "level", 
-      "scale": {
-        "range": ["#FF355A", "#FF6B6B", "#FFAA71"],
-        "domain": ["low", "medium", "high"]
-      }
-    }
-  },
-  "config": {
-    "view": {"stroke": "transparent"},
-    "background": "transparent"
-  }
-};
-🌐 Eldritch Connections
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
-LinkedIn
-Portfolio
-Email
-
-</div><!-- FLOATING PARTICLES FOOTER --><img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="filter: hue-rotate(300deg); margin-top: 3rem;"><div align="center" style="position: relative; padding: 2rem;"> <div style="position: absolute; width: 100%; height: 100%; background: url('https://i.postimg.cc/3R5b4QhG/particles.gif') center/cover; opacity: 0.15; pointer-events: none;"></div> <h3 style="font-family: 'Space Grotesk', sans-serif; color: #FF355A; letter-spacing: 2px;"> "We shape our tools thereafter, our tools shape us" </h3> <p style="color: #888; margin-top: 1rem;">- Marshall McLuhan</p> </div><!-- DYNAMIC VISITOR COUNTER --><div align="center" style="margin: 2rem 0;"> <img src="https://profile-counter.glitch.me/kmaili/count.svg" alt="Visitor Count" style="filter: drop-shadow(0 0 8px #FF355A);"> </div>
+<!-- 𝗔𝗡𝗜𝗠𝗔𝗧𝗘𝗗 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬 𝗚𝗥𝗔𝗣𝗛 --><h2 align="center" style="color: #00F7FF; text-shadow: 0 0 15px #00F7FF">📈 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h2>
