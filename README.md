@@ -1,222 +1,109 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+DOMAIN;I+AM+AYMEN+KMAILI;FRONTEND+NECROMANCER;CODE+SORCERER;DIGITAL+CONJURER" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" width="200px" height="200px">
-</p>
-
+<!-- 3D ANIMATED HEADER -->
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=kmaili&color=800000&style=for-the-badge&label=SOULS+CONSUMED)
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=4000&pause=1000&color=FF355A&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Frontend+Architect;%F0%9F%92%BB+Digital+Experience+Artisan;%F0%9F%94%A5+UI%2FUX+Alchemist" alt="Animated Header" />
 </div>
 
-<!-- BLOOD DRIPPING ANIMATION -->
+<!-- FLOATING AVATAR -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/blood.gif" alt="Blood Gif" width="100%">
+  <img src="https://i.postimg.cc/8CwqYvH4/avatar.gif" width="220px" style="border-radius: 50%; box-shadow: 0 0 25px #FF355A;">
 </div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/I%20AM%20NOT%20A%20DEVELOPER-I%20AM%20AN%20EXPERIENCE-800000?style=for-the-badge" alt="I am an experience">
-</p>
+<!-- NEON STATS GRID -->
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
 
-<!-- DARK ARTS SECTION -->
-<h2 align="center">🔥 DARK ARTS MASTERY 🔥</h2>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kmaili&theme=radical&border_radius=12&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-```js
-// The code that summons my powers
-class DarkDeveloper {
-  constructor() {
-    this.name = "Aymen Kmaili";
-    this.role = "Frontend Necromancer";
-    this.location = "The Void Between Worlds";
-    this.languages = [
-      "JavaScript", "TypeScript", "Python", "Java", 
-      "C", "HTML5", "CSS3", "The Ancient Tongue"
-    ];
-    this.frameworks = [
-      "Angular", "Django", "Spring", "Bootstrap", 
-      "Flutter", "Firebase", "Soul Binding Rituals"  
-    ];
-    this.databases = ["MongoDB", "PostgreSQL", "The Eternal Memory"];
-    this.devops = ["Docker", "Kubernetes", "Jenkins", "Linux", "Digital Familiars"];
-    this.ai = ["TensorFlow", "scikit-learn", "pandas", "hadoop", "kafka", "elasticsearch"];
-  }
-  
-  summonExperience() {
-    const midnight = new Date();
-    midnight.setHours(0, 0, 0, 0);
-    
-    const experience = Math.floor((Date.now() - midnight) / 1000);
-    console.log(`I have been coding for ${experience} seconds since midnight...`);
-    console.log("THE CODE NEVER SLEEPS");
-    return experience;
-  }
-  
-  castSpell(spellName) {
-    const spells = {
-      "responsive": "Your viewport belongs to me now",
-      "animation": "Witness movement beyond mortal comprehension",
-      "api": "I command data from the digital beyond",
-      "debugging": "I see errors before they manifest"
-    };
-    
-    return spells[spellName] || "That spell is forbidden";
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmaili&layout=compact&theme=radical&bg_color=0D1117&title_color=FF355A&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=kmaili&theme=radical&margin-w=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!-- GLASS MORPHISM SKILLS SECTION -->
+## 🔮 **Technical Grimoire**
+
+<div align="center" style="background: rgba(255, 53, 90, 0.1); backdrop-filter: blur(10px); padding: 2rem; border-radius: 15px; margin: 2rem 0; border: 1px solid rgba(255,53,90,0.3);">
+
+### **Core Arcana**
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1A1A1A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A1A1A)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1A1A)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Shadow Arts**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1A1A)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1A1A1A)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1A1A1A)
+
+### **Forbidden Knowledge**
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+
+</div>
+
+<!-- INTERACTIVE CODE PREVIEW -->
+## 💻 **Live Incantations**
+
+```tsx
+import { createPortal } from 'react-dom';
+import { useDarkMagic } from '@arcane/hooks';
+
+const DigitalPortal = () => {
+  const { summonDaemon, bindSpirit } = useDarkMagic();
+  const [dimension, setDimension] = useState<Realm>('Shadowlands');
+
+  useEffect(() => {
+    const elderSign = summonDaemon({
+      element: document.getElementById('portal'),
+      sacrifice: 3,
+      constraints: {
+        realityBending: true,
+        antiPatterns: ['cleanCode']
+      }
+    });
+
+    return () => bindSpirit(elderSign);
+  }, []);
+
+  return createPortal(
+    <EtherealCanvas 
+      realm={dimension}
+      onRender={(glitchMatrix) => (
+        <ChaosComponent 
+          entropyLevel={0.93}
+          renderMode="oblivion"
+        />
+      )}
+    />,
+    document.querySelector('#portal')
+  );
+};
+🌌 Cosmic Activity
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://ghchart.rshah.org/kmaili"},
+  "mark": "area",
+  "encoding": {
+    "x": {"field": "date", "type": "temporal", "title": "Timeline"},
+    "y": {"field": "count", "type": "quantitative", "title": "Code Storms"},
+    "color": {
+      "field": "level", 
+      "scale": {
+        "range": ["#FF355A", "#FF6B6B", "#FFAA71"],
+        "domain": ["low", "medium", "high"]
+      }
+    }
+  },
+  "config": {
+    "view": {"stroke": "transparent"},
+    "background": "transparent"
   }
 }
+🌐 Eldritch Connections
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+LinkedIn
+Portfolio
+Email
 
-// Invoke my presence
-const aymen = new DarkDeveloper();
-aymen.summonExperience();
-```
-
-<!-- ANIMATED STATS -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmaili&theme=blood-dark&hide_border=true&stroke=f53b3b&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
-</div>
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kmaili&theme=dracula&column=7&row=1&margin-w=15&no-frame=true" alt="trophy" /></p>
-
-<!-- GLOWING TECHNOLOGIES SECTION -->
-<h2 align="center">⚡ ARCANE TECHNOLOGIES ⚡</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-</p>
-
-<!-- HELLISH GITHUB ACTIVITY GRAPH -->
-<p align="center">
-  <a href="https://github.com/kmaili">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmaili&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
-  </a>
-</p>
-
-<!-- VISUALIZATION SECTION -->
-<h2 align="center">⚰️ MORTAL STATISTICS ⚰️</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kmaili&show_icons=true&theme=radical&title_color=ff3068&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmaili&layout=compact&theme=radical&title_color=ff3068&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- CREEPY SKILLS ANIMATION -->
-<h2 align="center">💀 FORBIDDEN SKILLS 💀</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" height="50">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" height="50">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" height="50">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" height="50">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" height="50">
-</p>
-
-<!-- CONNECT (IF YOU DARE) -->
-<h2 align="center">☠️ SUMMON ME ☠️</h2>
-
-<div align="center">
-<a href="https://linkedin.com/in/aymen-kmaili-75851a1bb" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=800000" alt="LinkedIn"/>
-</a>
-<a href="https://www.facebook.com/aymen.kmaili.1" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=800000" alt="Facebook"/>
-</a>
-<a href="mailto:youremail@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=800000" alt="Email"/>
-</a>
-</div>
-
-<!-- FOOTER -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/borderseperator.gif" width="100%">
-
-<h3 align="center">👁️ VISITOR COUNT 👁️</h3>
-<img src="https://profile-counter.glitch.me/kmaili/count.svg" alt="Visitor Count" />
-
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/borderseperator.gif" width="100%">
-</p>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/terminal.gif" width="400">
-<br>
-<br>
-<pre>
-                    +----------------------------------+
-                    |       THEY FEAR MY CODE          |
-                    |      BUT THEY NEED MY SKILLS     |
-                    +----------------------------------+
-                               \\
-                                \\
-                                 \\
-                                   __
- _                              .d$$b
-| |_   _                      .' TO$;\
-| | | | |      .----.       /  : TP._;
-| | | | |     /  ..  \\     / _.;  :Tb|
-| | | | |    /  .   . \\   /   /   ;j$j
-| | | | |  _/  /    /  \\_/_.'    iPP"
-| | | | | /   /      \\  \           ;
-    | | |  |                  :
-     |                        ;`
-                             `-.___.-'
-</pre>
-</div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
-
-<!-- CUSTOM CSS - GitHub won't render this, but it's for effect -->
-
-
-<!-- HIDDEN SPACE FOR THE UNDEAD -->
-<!--
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣄⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀
-⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
-⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆
-⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
-⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
-⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁
-⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀
-⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀
-THE VOID WATCHES    THE VOID WAITS     THE VOID CONSUMES
--->
+</div><!-- FLOATING PARTICLES FOOTER --><img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="filter: hue-rotate(300deg); margin-top: 3rem;"><div align="center" style="position: relative; padding: 2rem;"> <div style="position: absolute; width: 100%; height: 100%; background: url('https://i.postimg.cc/3R5b4QhG/particles.gif') center/cover; opacity: 0.15; pointer-events: none;"></div> <h3 style="font-family: 'Space Grotesk', sans-serif; color: #FF355A; letter-spacing: 2px;"> "We shape our tools thereafter, our tools shape us" </h3> <p style="color: #888; margin-top: 1rem;">- Marshall McLuhan</p> </div><!-- DYNAMIC VISITOR COUNTER --><div align="center" style="margin: 2rem 0;"> <img src="https://profile-counter.glitch.me/kmaili/count.svg" alt="Visitor Count" style="filter: drop-shadow(0 0 8px #FF355A);"> </div>
